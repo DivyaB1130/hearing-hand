@@ -21,3 +21,13 @@ Hearing Hand is perfect for beginners who want a simple, accessible way to start
 3. Check out the Deaf culture resources for additional context and knowledge.
 
 Happy learning!
+
+## Team
+
+Built during Kode With Klossy's 2024 Mobile App Development program by Divya Bhatia, Reva Choudha, Sherry Wang and Summer. Reva continued developing the app afterwards, adding the daily challenge, streaks and quiz improvements (October 2024 to January 2025).
+
+Built with Swift and SwiftUI in Xcode.
+
+## About this copy
+
+This is Divya's copy of the team project, with the full commit history so every contribution stays credited. The original repository is [sherryw1001/finalProject](https://github.com/sherryw1001/finalProject).
